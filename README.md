@@ -1,69 +1,57 @@
 # The Hart Protocol
 
 **Infrastructure, Equity & Local Return**  
-*A magazine-paced civic editorial by Bart Salazar*
+*A civic editorial by Bart Salazar*
 
 ![Preview of The Hart Protocol](./preview.jpg)
 
 > The cloud looks different when it lands.
----
 
 ## Live Site
 
 [View the live editorial](https://bartron773.github.io/the-hart-protocol/)
 
----
-
 ## What This Is
 
-*The Hart Protocol* is a single-file, self-contained HTML editorial that reframes the data-center conversation as a question of **public leverage, civic protection, and enforceable local return**.
+*The Hart Protocol* is a single-file web editorial that reframes the data-center conversation as a question of **public leverage, civic protection, and enforceable local return**.
 
-It is **not anti-tech**. It is a policy-sharp argument that communities asked to host the physical infrastructure of AI, cloud, and digital life deserve a real deal — not just tax rhetoric and landscaping renderings.
-
-Designed with glassmorphism, atmospheric orbs, and film-grain texture, it reads like a high-end print editorial while living natively on the web.
+It is not anti-technology. It argues that communities asked to host the physical infrastructure of AI, cloud computing, and digital life deserve measurable, enforceable value in return—not merely tax rhetoric or promotional renderings.
 
 ## Why It Matters
 
-Data centers are often discussed as abstract symbols of innovation. For host communities, they are physical systems with real consequences: land use, substations, water demand, zoning pressure, backup generation, and long-term public obligations.
+Data centers are physical systems with local consequences: land use, substations, water demand, zoning pressure, backup generation, infrastructure wear, and long-term public obligations.
 
-*The Hart Protocol* argues that if digital infrastructure lands locally, local communities should receive visible, enforceable value in return.
+The project asks what communities should require before granting access to land, power, water, roads, and public trust.
 
-## Key Sections
+## Key Themes
 
-- Opening argument: power, not just facilities
-- The numbers: Virginia GDP, polling decline, and efficiency benchmarks
-- The smarter deal: six concrete public demands
-- Binding Community Benefit Agreements
-- Exit liability and decommissioning
-- Plain-language framing for neighbors and local stakeholders
+- public leverage and local return
+- binding community-benefit agreements
+- utility, water, and land-use accountability
+- decommissioning and exit liability
+- plain-language civic communication
+- long-term protections beyond initial incentives
 
-## Tech
+## Technical Profile
 
-- Single-file `index.html`
-- Pure HTML + CSS
-- Responsive layout
-- Print-friendly design
-- No build step
-- No framework dependencies
+- single-file `index.html`
+- pure HTML and CSS
+- responsive and print-friendly layout
+- no build step or framework dependency
 
-## Run Locally
+## Editorial Status and Disclaimer
 
-1. Clone or download this repository
-2. Open `index.html` in any modern browser
+This work is an independent civic and policy editorial. It is not legal, financial, engineering, environmental, or municipal-planning advice. Facts and policy examples should be independently verified before use in public decisions, contracts, hearings, or regulatory proceedings.
 
-## Project Structure
+## Rights and Use
 
-- `index.html` — the full editorial
-- `README.md` — project overview
+This project is **source-visible and all rights reserved**. Earlier language suggesting unrestricted forking or adaptation is superseded.
 
-## License
+Public access permits reading, linking, commentary, and legally permitted quotation. It does not grant permission to copy, redistribute, adapt, commercialize, train AI systems on, or create derivative works from the project.
 
-Open to read, share, fork, and adapt. Attribution appreciated.  
-A formal license may be added in a future revision.
+See [`repository-standard/LICENSE`](repository-standard/LICENSE), [`COPYRIGHT.md`](repository-standard/COPYRIGHT.md), [`AI_POLICY.md`](repository-standard/AI_POLICY.md), and [`ATTRIBUTION.md`](repository-standard/ATTRIBUTION.md).
 
 ---
 
 **Conceived, written, and shaped by Bart Salazar**  
-Hart, Michigan — April 2026
-
-*The Hart Protocol* — turning local silence into local leverage.
+Hart, Michigan — 2026
