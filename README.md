@@ -9,7 +9,7 @@
 
 ## Live Site
 
-[View the live editorial](https://bartron773.github.io/the-hart-protocol/)
+[View the live editorial](https://simple-minds-studios.github.io/the-hart-protocol/)
 
 ## What This Is
 

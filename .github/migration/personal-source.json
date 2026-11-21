@@ -1,0 +1,20 @@
+{
+  "source_repository": "Bartron773/the-hart-protocol",
+  "source_default_sha": "8a74b1f7f92c083dc20e0c8943293c270988293f",
+  "organization_sha_before_audit": "937a49badb933c90ae18807b90a2188e03dedc3a",
+  "common_ancestor": "8a74b1f7f92c083dc20e0c8943293c270988293f",
+  "source_description": "The Hart Protocol \u2014 Infrastructure, Equity & Local Return",
+  "source_homepage": "https://bartron773.github.io/the-hart-protocol/",
+  "preserved_branches": [],
+  "source_branch_map": [
+    {
+      "source_branch": "main",
+      "sha": "8a74b1f7f92c083dc20e0c8943293c270988293f",
+      "preserved_in": "organization main ancestry"
+    }
+  ],
+  "source_tags": [],
+  "issues_and_pull_requests": [],
+  "releases": [],
+  "note": "Git history and branch tips are preserved under archive/personal/*. GitHub issue/PR numbers, review threads, check runs, permissions and secrets are not Git objects. Source records remain at their original URLs. No credential values have been copied."
+}
